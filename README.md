@@ -19,10 +19,7 @@ The dashboard enables users to analyse portfolio-level metrics and compare defau
 
 ## Dataset
 
-- Source [LendingClub Loan Data – Kaggle](httpswww.kaggle.comdatasetswordsforthewiselending-club)
-- Records analysed Approximately 2.26 million.
-- Period 2007–2018 Q4.
-- Format CSV.
+- **Source:** [LendingClub Loan Data – Kaggle](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
 
 The dataset contains loan amounts, interest rates, borrower income, loan grades, loan purposes, geographical information, and repayment statuses.
 
