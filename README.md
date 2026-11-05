@@ -96,3 +96,7 @@ credit-risk-analytics-dashboard
 ---
 
 Developed as a financial data analytics project using SQL and Power BI.
+
+## Power BI Dashboard
+
+[Download Credit Risk Analytics Dashboard (.pbix)](https://github.com/atulyasriv/credit-risk-analytics-dashboard/releases/tag/v1.0)
